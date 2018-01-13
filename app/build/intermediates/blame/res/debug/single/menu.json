@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/shruti/androidWorkshop/Quiz/app/build/intermediates/res/merged/debug/menu/activity_main_drawer.xml",
+        "source": "/home/shruti/androidWorkshop/Quiz/app/src/main/res/menu/activity_main_drawer.xml"
+    },
+    {
+        "merged": "/home/shruti/androidWorkshop/Quiz/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/shruti/androidWorkshop/Quiz/app/src/main/res/menu/main.xml"
+    }
+]

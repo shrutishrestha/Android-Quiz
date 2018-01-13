@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<EditText
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:hint="question"
+    android:id="@+id/admin_question"/>
+    <EditText
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:hint="option1"
+        android:id="@+id/admin_option1"/>
+    <EditText
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:hint="option2"
+        android:id="@+id/admin_option2"/>
+    <EditText
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:hint="option3"
+    android:id="@+id/admin_option3"/>
+    <EditText
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:hint="option4"
+        android:id="@+id/admin_option4"/>
+    <EditText
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:hint="rightAnswer"
+        android:id="@+id/admin_rightAnswer"/>
+ <LinearLayout
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+
+     android:orientation="horizontal">
+
+    <Button
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+
+        android:text="Next"
+        android:id="@+id/admin_Next"/>
+    <Button
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="View All"
+        android:id="@+id/admin_view"/>
+    <Button
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="Set"
+        android:id="@+id/admin_Set"/>
+ </LinearLayout>
+</LinearLayout>

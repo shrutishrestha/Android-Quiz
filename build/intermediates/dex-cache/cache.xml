@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/shruti/androidWorkshop/Quiz/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/home/shruti/androidWorkshop/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_83e86fb626cde70b75e3ac0b8f4e55dfa2e7aa24/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shruti/androidWorkshop/Quiz/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/shruti/androidWorkshop/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_055982d9bd14921186fce2a0b20fe931893f153d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shruti/androidWorkshop/Quiz/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/home/shruti/androidWorkshop/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_14d1301d642803f15b3fd33fb8eb81cd836932fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shruti/androidWorkshop/Quiz/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f687fb9a893af1ce468c9a150f2b3cfc3097787d">
+        <dex dex="/home/shruti/androidWorkshop/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ea8e2722895c9516459fc43543dc8ee4839323ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shruti/androidWorkshop/Quiz/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/home/shruti/androidWorkshop/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_22b9b474e2349e43d943b1698e97a818e03e7e07/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shruti/androidWorkshop/Quiz/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/home/shruti/androidWorkshop/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_064d980f238be42aa3305ff42928b9c6ae55f4ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shruti/androidWorkshop/Quiz/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/home/shruti/androidWorkshop/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.0_36bfc9e5e48d5c3f8d2ecd66341bfbc976c841de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shruti/androidWorkshop/Quiz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/home/shruti/androidWorkshop/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_0591a364d8952ac6bb85fb6a9c1e7b27d43896c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shruti/androidWorkshop/Quiz/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/shruti/androidWorkshop/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_31c9d45f71689106e8007f2e76a8f54247c08119/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shruti/androidWorkshop/Quiz/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/home/shruti/androidWorkshop/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_3c58ee8ae743dd52596dbc7b11c1d8ebcb78cc85/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shruti/androidWorkshop/Quiz/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/home/shruti/androidWorkshop/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_a3458c1e7e996edb68cacd18b28be43c9411e106/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shruti/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/home/shruti/androidWorkshop/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_be25595d6ebeb153426f244c2ec9fcf51d975cee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shruti/androidWorkshop/Quiz/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/home/shruti/androidWorkshop/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_6499cd86caccdc11ad16fd52a76c0addcaccb9a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shruti/androidWorkshop/Quiz/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8764617491836b3849c0fe2b7b0a0da0429675b7">
+        <dex dex="/home/shruti/androidWorkshop/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_fdeac524471c9359760756a1cc5bf9cf2199fbe9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shruti/androidWorkshop/Quiz/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/home/shruti/androidWorkshop/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.0_8b88b05b91c4f95906905884302cfc873fa94607/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shruti/androidWorkshop/Quiz/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/home/shruti/androidWorkshop/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_78d16cfddaf6b9850df59af7da81c6ef1453bc5b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shruti/androidWorkshop/Quiz/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/home/shruti/androidWorkshop/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.0_ff9c65bf4ddc53249012927612c46c9b1f9646c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shruti/androidWorkshop/Quiz/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/home/shruti/androidWorkshop/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_333f00e37f7437331767d5b377d9301cbf44bfd6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shruti/androidWorkshop/Quiz/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/home/shruti/androidWorkshop/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_a1fc51c6e2c65d9161b0574c614c3c8e0410c9b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shruti/androidWorkshop/Quiz/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/home/shruti/androidWorkshop/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_24e5328dd6f28ed618409054e22e744479dd4a28/classes.dex" />
+    </item>
+
+</items>

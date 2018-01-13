@@ -1,0 +1,7 @@
+#Mon Oct 24 15:37:39 NPT 2016
+base.0=/home/shruti/androidWorkshop/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ea8e2722895c9516459fc43543dc8ee4839323ab
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/shruti/androidWorkshop/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_fdeac524471c9359760756a1cc5bf9cf2199fbe9/classes.dex
+base.1=/home/shruti/androidWorkshop/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_fdeac524471c9359760756a1cc5bf9cf2199fbe9
+file.0=/home/shruti/androidWorkshop/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ea8e2722895c9516459fc43543dc8ee4839323ab/classes.dex
